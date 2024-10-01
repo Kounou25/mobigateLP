@@ -46,7 +46,7 @@ const Header = () => {
               className="hidden w-full dark:block"
             />
             <Image
-              src="/images/logo/URBAN-LOGO.png"
+              src="/images/logo/MobiGate.png"
               alt="logo"
               width={119.03}
               height={30}
